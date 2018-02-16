@@ -5,3 +5,42 @@
 */
 
 /* ===================== layout ============================= */
+
+body {
+	background: linear-gradient(270deg,#00008B, #3A5FCD);
+	background-attachment: fixed;
+	font-family: Helvetica,Arial,sans-serif; 
+	overflow-x: hidden;
+}
+
+.header {
+	border: solid 1px;
+	margin-top: 25px;
+	margin-bottom: 5px;
+}
+
+.conteudo {
+	background-image: url('imagens/2194066_1.jpg');
+}
+
+.texto-nav {
+	text-indent: 25px;
+	color: white;
+}
+
+.navbar-right {
+	padding-right: 10px;
+	padding-top: 8px;
+}
+
+.navegacao {
+	background-color: #00008B;
+}
+
+.escudo {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	width: 200px;
+	height: 200px;
+}
